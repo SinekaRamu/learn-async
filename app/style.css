@@ -95,3 +95,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+#loading-indicator {
+  height: 30px;
+}
+
+#imageBtn {
+  margin: 20px 0;
+}
